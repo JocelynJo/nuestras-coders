@@ -1,0 +1,63 @@
+body{
+	padding: 50px;
+}
+.caja1{
+	width: 1000px;
+	padding: 100px
+}
+.nombre{
+	color: white;
+	position: absolute;	
+	bottom: 0; right: 0;
+}
+.tm{
+	width: 211px;
+	height: 211px;
+	
+}
+
+.chica1{
+
+	background-image: url("../img/profile-1.png");
+	position: relative;	
+	margin: 10px;
+	left: 100px;
+}
+.chica2{
+	background-image: url("../img/profile-2.png");
+	position: relative;
+	margin:10px;
+	left: 321px; 
+	top: -220px;
+}
+.chica3{
+	background-image: url("../img/profile-3.png");
+	position: relative;
+	margin:10px;
+	left: 541px;
+	top:-440px;
+}
+.chica4{
+	background-image: url("../img/profile-4.png");
+	position: relative;
+	margin: 10px;
+	left: 100px;
+	top: -440px;
+}
+.chica5{
+	background-image: url("../img/profile-5.png");
+	position: relative;
+	left: 331px;
+	top: -660px;
+}
+.chica6{
+	background-image: url("../img/profile-6.png");
+	position: relative;
+	left: 551px;
+	top: -871px;
+}
+hr{
+	display: inline-block;
+	border-top: solid;
+	width: 200px;
+}
